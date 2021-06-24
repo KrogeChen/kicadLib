@@ -1,4 +1,4 @@
-(module SSOP-IR8307 (layer F.Cu) (tedit 5FED6583)
+(module SSOP-IR8307 (layer F.Cu) (tedit 60540517)
   (descr "SSOP, 8 Pin (http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS16-DS501-00014-6v0-E.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SSOP SO")
   (attr smd)
@@ -6,7 +6,7 @@
     (effects (font (size 0.5 0.5) (thickness 0.08)))
   )
   (fp_text value SSOP-4_2.7x5.05mm_P1.27mm (at 0 -2 180) (layer F.Fab) hide
-    (effects (font (size 0.4 0.4) (thickness 0.04)))
+    (effects (font (size 0.2 0.2) (thickness 0.02)))
   )
   (fp_line (start 0 -2.635) (end 0 -2.635) (layer B.Fab) (width 0.12))
   (fp_line (start -0.01 -1.35) (end -1.96 -1.35) (layer F.SilkS) (width 0.12))
@@ -23,7 +23,7 @@
   (fp_line (start -2.69 -1.4) (end -2.69 1.4) (layer F.CrtYd) (width 0.05))
   (fp_line (start -2.69 1.4) (end 2.73 1.4) (layer F.CrtYd) (width 0.05))
   (fp_text user %R (at 0 0 180) (layer F.Fab) hide
-    (effects (font (size 0.4 0.4) (thickness 0.04)))
+    (effects (font (size 0.2 0.2) (thickness 0.02)))
   )
   (fp_line (start 0.53 1.34) (end -0.7 0.34) (layer F.SilkS) (width 0.12))
   (fp_line (start -0.7 0.34) (end -0.7 -1.34) (layer F.SilkS) (width 0.12))

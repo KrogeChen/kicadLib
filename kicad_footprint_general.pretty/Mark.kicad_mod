@@ -1,0 +1,10 @@
+(module Mark (layer F.Cu) (tedit 6056C518)
+  (fp_text reference REF** (at 2.7 0.01) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.08)))
+  )
+  (fp_text value Mark (at -0.01 -1.8) (layer F.Fab)
+    (effects (font (size 0.2 0.2) (thickness 0.02)))
+  )
+  (pad 1 smd circle (at 0 0) (size 1 1) (layers F.Cu F.Paste F.Mask)
+    (solder_mask_margin 1))
+)

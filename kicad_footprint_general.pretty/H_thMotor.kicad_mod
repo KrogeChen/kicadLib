@@ -1,9 +1,9 @@
-(module H_thMotor (layer F.Cu) (tedit 5FB5CECD)
+(module H_thMotor (layer F.Cu) (tedit 6054013F)
   (fp_text reference REF** (at 0 -1.7) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.5 0.5) (thickness 0.08)))
   )
   (fp_text value H_thMotor (at 0 -0.5) (layer F.Fab) hide
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.2 0.2) (thickness 0.02)))
   )
   (pad 1 thru_hole circle (at 0 0) (size 17 17) (drill 13.5) (layers *.Cu *.Mask))
 )
