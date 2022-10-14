@@ -1,0 +1,9 @@
+(module Pole_H1.2mm (layer F.Cu) (tedit 61DF8AE8)
+  (fp_text reference REF** (at 0.26 -2.04) (layer F.SilkS)
+    (effects (font (size 0.5 0.5) (thickness 0.08)))
+  )
+  (fp_text value Pole_H1.0mm (at -0.03 -0.96) (layer F.Fab) hide
+    (effects (font (size 0.2 0.2) (thickness 0.02)))
+  )
+  (pad 1 thru_hole oval (at 0 0) (size 1.8 3) (drill 1.2) (layers *.Cu *.Mask))
+)
