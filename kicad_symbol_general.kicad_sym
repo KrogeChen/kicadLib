@@ -13797,6 +13797,10 @@
       )
     )
     (symbol "STC8G1K08_1_1"
+      (pin power_in line (at 0 7.62 270) (length 2.54)
+        (name "GND" (effects (font (size 1.27 1.27))))
+        (number "0" (effects (font (size 1.27 1.27))))
+      )
       (pin bidirectional line (at -10.16 3.81 0) (length 2.54)
         (name "P5.4" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
