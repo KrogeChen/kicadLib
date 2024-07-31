@@ -1,4 +1,4 @@
-(footprint "PhoenixContact_MCV_1,5_3-G-3.81_1x03_P3.81mm_SMD" (version 20221018) (generator pcbnew)
+(footprint "PhoenixContact_MCV_1,5_3-G-3.81_1x03_P3.81mm_CON" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Generic Phoenix Contact connector footprint for: MCV_1,5/3-G-3.81; number of pins: 03; pin pitch: 3.81mm; Vertical || order number: 1803439 8A 160V")
   (tags "phoenix_contact connector MCV_01x03_G_3.81mm")
@@ -7,13 +7,13 @@
       (effects (font (size 0.5 0.5) (thickness 0.08)))
     (tstamp acb573e7-8d72-4e3c-8090-6a8188fba150)
   )
-  (fp_text value "PhoenixContact_MCV_1,5_3-G-3.81_1x03_P3.81mm_SMD" (at 0 1.2) (layer "F.Fab")
+  (fp_text value "PhoenixContact_MCV_1,5_3-G-3.81_1x03_P3.81mm_CON" (at 0 1.2) (layer "F.Fab") hide
       (effects (font (size 0.2 0.2) (thickness 0.02)))
     (tstamp bac31291-9e41-4867-a0e1-d520aeb1e8d7)
   )
-  (pad "1" thru_hole roundrect (at -3.81 0) (size 1.8 4) (drill 1.2) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.139) (tstamp 68201f91-e9c2-4005-bdea-772b7d86f955))
-  (pad "2" thru_hole oval (at 0 0) (size 1.8 4) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp a73be4eb-e236-494c-9493-af5aaab32007))
-  (pad "3" thru_hole oval (at 3.81 0) (size 1.8 4) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 9c0a4d17-7e77-40d2-903f-8b027bb657e0))
+  (pad "1" thru_hole roundrect (at -3.81 0) (size 1.8 3) (drill 1.2) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.139) (tstamp 68201f91-e9c2-4005-bdea-772b7d86f955))
+  (pad "2" thru_hole oval (at 0 0) (size 1.8 3) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp a73be4eb-e236-494c-9493-af5aaab32007))
+  (pad "3" thru_hole oval (at 3.81 0) (size 1.8 3) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 9c0a4d17-7e77-40d2-903f-8b027bb657e0))
   (model "${KISYS3DMOD}/Connector_Phoenix_MC.3dshapes/PhoenixContact_MCV_1,5_3-G-3.81_1x03_P3.81mm_Vertical.wrl" hide
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
