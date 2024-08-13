@@ -10,5 +10,5 @@
     (tstamp badd4a11-6294-4e75-962b-8c29022ab471)
   )
   (pad "1" smd circle (at 0 0) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask")
-    (solder_mask_margin 1) (tstamp 5b769125-0951-451c-95d3-56850deb249e))
+    (solder_mask_margin 0.5) (tstamp 5b769125-0951-451c-95d3-56850deb249e))
 )
